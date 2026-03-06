@@ -7,7 +7,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { ShieldCheck, Thermometer, ClipboardCheck, Droplets, UserCheck, AlertTriangle } from 'lucide-react';
 
-export function SafeFood() {
+export default function SafeFood() {
   const guidelines = [
     {
       icon: Thermometer,
@@ -125,5 +125,3 @@ export function SafeFood() {
     </main>
   );
 }
-
-export default SafeFood;
