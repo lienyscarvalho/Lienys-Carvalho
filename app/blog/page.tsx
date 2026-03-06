@@ -13,7 +13,7 @@ const articles = [
     excerpt: 'Descubra as estratégias práticas para otimizar suas compras e reduzir o desperdício na cozinha.',
     date: '15 Mar, 2025',
     category: 'Gestão Financeira',
-    image: 'https://picsum.photos/seed/restaurant-finance/800/600'
+    image: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const articles = [
     excerpt: 'Aprenda a classificar seus pratos entre Estrelas, Cavalos de Carga, Quebra-cabeças e Cães.',
     date: '10 Mar, 2025',
     category: 'Estratégia',
-    image: 'https://picsum.photos/seed/restaurant-menu-design/800/600'
+    image: 'https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const articles = [
     excerpt: 'Fique por dentro das novas exigências sanitárias para bares e restaurantes no Brasil.',
     date: '05 Mar, 2025',
     category: 'Segurança Alimentar',
-    image: 'https://picsum.photos/seed/food-safety-inspection/800/600'
+    image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const articles = [
     excerpt: 'Como uma avaliação externa pode identificar falhas invisíveis para quem está no dia a dia.',
     date: '01 Mar, 2025',
     category: 'Consultoria',
-    image: 'https://picsum.photos/seed/food-critic-tasting/800/600'
+    image: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 5,
@@ -45,7 +45,7 @@ const articles = [
     excerpt: 'Pare de imobilizar capital em itens de baixo giro e foque no que realmente traz lucro.',
     date: '25 Fev, 2025',
     category: 'Operação',
-    image: 'https://picsum.photos/seed/restaurant-inventory/800/600'
+    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 6,
@@ -53,7 +53,7 @@ const articles = [
     excerpt: 'Como garantir que o prato saia perfeito todas as vezes, independente de quem esteja na cozinha.',
     date: '20 Fev, 2025',
     category: 'Equipe',
-    image: 'https://picsum.photos/seed/chef-training-kitchen/800/600'
+    image: 'https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=800&q=80'
   }
 ];
 

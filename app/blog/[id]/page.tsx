@@ -26,7 +26,7 @@ const articles = [
     `,
     date: '15 Mar, 2025',
     category: 'Gestão Financeira',
-    image: 'https://picsum.photos/seed/restaurant-finance/1200/600'
+    image: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1200&q=80'
   },
   {
     id: 2,
@@ -42,7 +42,7 @@ const articles = [
     `,
     date: '10 Mar, 2025',
     category: 'Estratégia',
-    image: 'https://picsum.photos/seed/restaurant-menu-design/1200/600'
+    image: 'https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?auto=format&fit=crop&w=1200&q=80'
   },
   {
     id: 3,
@@ -57,7 +57,7 @@ const articles = [
     `,
     date: '05 Mar, 2025',
     category: 'Segurança Alimentar',
-    image: 'https://picsum.photos/seed/food-safety-inspection/1200/600'
+    image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80'
   }
 ];
 
