@@ -29,7 +29,7 @@ const articles = [
     excerpt: 'Fique por dentro das novas exigências sanitárias para bares e restaurantes no Brasil.',
     date: '05 Mar, 2025',
     category: 'Segurança Alimentar',
-    image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 4,
@@ -45,7 +45,7 @@ const articles = [
     excerpt: 'Pare de imobilizar capital em itens de baixo giro e foque no que realmente traz lucro.',
     date: '25 Fev, 2025',
     category: 'Operação',
-    image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 6,
@@ -53,7 +53,7 @@ const articles = [
     excerpt: 'Como garantir que o prato saia perfeito todas as vezes, independente de quem esteja na cozinha.',
     date: '20 Fev, 2025',
     category: 'Equipe',
-    image: 'https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?auto=format&fit=crop&w=800&q=80'
   }
 ];
 

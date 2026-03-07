@@ -57,7 +57,52 @@ const articles = [
     `,
     date: '05 Mar, 2025',
     category: 'Segurança Alimentar',
-    image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80'
+    image: 'https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?auto=format&fit=crop&w=1200&q=80'
+  },
+  {
+    id: 4,
+    title: 'O Poder da Crítica Gastronômica Técnica',
+    content: `
+      Uma crítica técnica vai além do sabor. Ela analisa a jornada do cliente, a eficiência operacional e a consistência do produto.
+      
+      ### O que avaliamos:
+      - **Ambiente e Atmosfera**: Iluminação, som, temperatura e conforto.
+      - **Serviço**: Tempo de espera, cordialidade e conhecimento técnico da equipe.
+      - **Qualidade Técnica**: Temperatura de serviço, texturas e equilíbrio de sabores.
+    `,
+    date: '01 Mar, 2025',
+    category: 'Consultoria',
+    image: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1200&q=80'
+  },
+  {
+    id: 5,
+    title: 'Gestão de Estoque: Curva ABC na Prática',
+    content: `
+      O estoque parado é dinheiro que não circula. A Curva ABC ajuda a priorizar o que realmente importa.
+      
+      ### Classificação ABC:
+      - **Classe A**: Itens de alto valor que representam 80% do custo total. Controle rigoroso.
+      - **Classe B**: Itens de valor intermediário. Controle moderado.
+      - **Classe C**: Itens de baixo valor, mas alta quantidade. Controle simplificado.
+    `,
+    date: '25 Fev, 2025',
+    category: 'Operação',
+    image: 'https://images.unsplash.com/photo-1583258292688-d0213dc5a3a8?auto=format&fit=crop&w=1200&q=80'
+  },
+  {
+    id: 6,
+    title: 'Treinamento de Equipe: Padronização é a Chave',
+    content: `
+      A equipe é a cara do seu negócio. Treinamento constante é investimento, não custo.
+      
+      ### Pilares do Treinamento:
+      - **Hospitalidade**: Como encantar o cliente desde a chegada.
+      - **Venda Sugestiva**: Aumentando o ticket médio de forma natural.
+      - **Processos**: Garantindo que a operação flua sem gargalos.
+    `,
+    date: '20 Fev, 2025',
+    category: 'Equipe',
+    image: 'https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?auto=format&fit=crop&w=1200&q=80'
   }
 ];
 
